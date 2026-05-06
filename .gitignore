@@ -1,0 +1,17 @@
+
+.env
+
+venv/
+*-env/
+fraud-check-env/
+
+__pycache__/
+*.pyc
+
+*.log
+spark-warehouse/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db

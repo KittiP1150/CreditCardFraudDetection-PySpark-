@@ -1,0 +1,6 @@
+pyspark
+pandas
+numpy
+matplotlib
+python-dotenv
+pyarrow
